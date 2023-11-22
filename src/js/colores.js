@@ -1,0 +1,1 @@
+export const arrayDeColores = ["#E6A441", "#E66F46", "#E5393F", "#AB53E5", "#615FE6", "#50C3E6", "#38E551", "#51A65E", "#8AA841", "#7F5391"]
